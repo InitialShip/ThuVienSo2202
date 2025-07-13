@@ -1,4 +1,5 @@
-import unittest, dao
+import unittest
+import dao
 
 class TestLogin(unittest.TestCase):
     def test1(self):
